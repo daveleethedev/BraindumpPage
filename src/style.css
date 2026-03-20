@@ -50,8 +50,12 @@ img{
 }
 
 @media (max-width: 600px) {
+    #navbar{
+        
+    }
+
     .navbar-toggler{
-        margin-left: 200px;
+        margin-left: 20px;
     }
     #bdPreview{
     padding: 10px;
